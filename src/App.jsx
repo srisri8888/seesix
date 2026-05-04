@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Get started11</h1>
           <p>
-            Hello Seesix
+            Hello Srikanth
           </p>
         </div>
         <button
