@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started11</h1>
           <p>
-            Hello Srikanth
+            Hello Srikanth deployed it in Render.com and it is working fine. I am using Vite with React and it is amazing!
           </p>
         </div>
         <button
